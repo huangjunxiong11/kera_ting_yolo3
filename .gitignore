@@ -130,3 +130,5 @@ dmypy.json
 
 # self
 VOCdevkit
+logs
+*.h5
